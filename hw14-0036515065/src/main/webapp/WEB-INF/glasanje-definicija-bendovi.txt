@@ -1,0 +1,7 @@
+42	The Beatles	https://www.youtube.com/watch?v=2RicaUqd9Hg
+3	The Strokes	https://www.youtube.com/watch?v=b8-tXG8KrWs
+92	Radiohead	https://www.youtube.com/watch?v=XFkzRNyygfk
+105	Led Zeppelin	https://www.youtube.com/watch?v=QkF3oxziUI4
+99	Gorillaz	https://www.youtube.com/watch?v=HyHNuVaZJ-k
+20	Dragonforce	https://www.youtube.com/watch?v=0jgrCKhxE1s
+1	Jamiroquai	https://www.youtube.com/watch?v=4JkIs37a2JE

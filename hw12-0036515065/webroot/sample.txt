@@ -1,0 +1,11 @@
+Prvih 10 fibonaccijevih brojeva je:
+0
+1
+1
+2
+3         Ovo je bez veze!
+5
+8
+13
+21
+34

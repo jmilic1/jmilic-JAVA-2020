@@ -1,0 +1,11 @@
+{$= "text/html" @setMimeType $}
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1> {$= "answer" "2" @tparamGet $} </h1>
+
+<a href="/index2.html">Home page</a>
+
+</body>
+</html>
