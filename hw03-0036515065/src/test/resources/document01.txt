@@ -1,0 +1,6 @@
+Ovo je sample text
+Turizam {$ FOR var 1 1 1$}
+{$ FOR var 2 2 2 $} Bas mi se gricka
+nesto
+{$END$}
+{$END$}

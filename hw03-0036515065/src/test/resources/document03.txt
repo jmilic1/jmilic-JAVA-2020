@@ -1,0 +1,2 @@
+Ovo je sample text
+{$ FOR thisShouldNotThrow 1.0 1.0 $}{$END$}

@@ -1,0 +1,1 @@
+{$ FOR _josKrivije 1 1 1 $}{$END$}
