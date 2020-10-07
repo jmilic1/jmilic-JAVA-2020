@@ -1,0 +1,3 @@
+Ovo je sample text
+{$ FOR OvoJeDuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuugackoImeVarijable 1 1 1 $}
+Echo zauzima puno mjesta ali ima samo dva elementa {$=                              i                  "ana voli milovana"                                 $}{$END$}

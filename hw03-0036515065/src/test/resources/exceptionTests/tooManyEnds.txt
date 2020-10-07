@@ -1,0 +1,1 @@
+{$ FOR mmmmmKrivo 1 1 1 $}{$ FOR mmmmmKrivo 1 1 1 $}{$ FOR mmmmmKrivo 1 1 1 $}{$ FOR mmmmmKrivo 1 1 1 $}{$END$}{$END$}{$END$}{$END$}{$END$}
